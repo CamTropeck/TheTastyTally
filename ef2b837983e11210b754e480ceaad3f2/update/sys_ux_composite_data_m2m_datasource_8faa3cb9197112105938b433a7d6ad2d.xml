@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Tasks Dataset">0faa3cb9e7711210c251eab53f6cf32f</dataset>
+        <datasource display_value="Custom Portal Landing - My Tasks Datasource (Task table)">c7aa3cb92a7112104eaf02008ab48c2e</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 15:14:31</sys_created_on>
+        <sys_id>8faa3cb9197112105938b433a7d6ad2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="TastyTally" source="x_1534543_tastyt_1">ef2b837983e11210b754e480ceaad3f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TastyTally">ef2b837983e11210b754e480ceaad3f2</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_8faa3cb9197112105938b433a7d6ad2d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 15:14:31</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

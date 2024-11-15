@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="272c8fb983e11210b754e480ceaad354" label="UserData" max_length="40" name="x_1534543_tastyt_1_userdata" text_index="true" type="collection">
+        <element label="Email" max_length="40" name="email" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Password" max_length="40" name="password" type="string"/>
+    </element>
+</database>

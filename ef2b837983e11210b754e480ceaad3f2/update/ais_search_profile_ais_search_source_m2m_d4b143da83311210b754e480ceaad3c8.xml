@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="tastytallycom/signup Search Profile">52a1cf9a0331121048fd1219e4814fb5</profile>
+        <search_source display_value="UserData">017d4f3d83e11210b754e480ceaad3f4</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-13 14:21:17</sys_created_on>
+        <sys_id>d4b143da83311210b754e480ceaad3c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tastytallycom/signup Search Profile.UserData</sys_name>
+        <sys_package display_value="TastyTally" source="x_1534543_tastyt_1">ef2b837983e11210b754e480ceaad3f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TastyTally">ef2b837983e11210b754e480ceaad3f2</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_d4b143da83311210b754e480ceaad3c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-13 14:21:17</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

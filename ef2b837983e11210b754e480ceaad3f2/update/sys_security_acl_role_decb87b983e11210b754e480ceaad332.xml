@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-30 15:32:44</sys_created_on>
+        <sys_id>decb87b983e11210b754e480ceaad332</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1534543_tastyt_1_recipelist.x_1534543_tastyt_1.admin</sys_name>
+        <sys_package display_value="TastyTally" source="x_1534543_tastyt_1">ef2b837983e11210b754e480ceaad3f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TastyTally">ef2b837983e11210b754e480ceaad3f2</sys_scope>
+        <sys_security_acl display_value="x_1534543_tastyt_1_recipelist">5ecb87b983e11210b754e480ceaad32e</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_decb87b983e11210b754e480ceaad332</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-30 15:32:44</sys_updated_on>
+        <sys_user_role display_value="x_1534543_tastyt_1.admin" name="x_1534543_tastyt_1.admin">332b837983e11210b754e480ceaad3f9</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

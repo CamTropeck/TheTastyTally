@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Search Page">d3aa3cb9127112102c31e0f58dc5de48</macroponent>
+        <name>handle_tab_filter_click</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[function handler({api, event, imports, helpers}) {
+		const props = api.context.props;
+    helpers.navigate.to('search', {
+			searchTerm: props.searchTerm,
+			searchContextConfigId: props.searchContextConfigId
+    },
+		{
+			searchFilters: event.payload.selectedFilter,
+			facetFilters: props.facetFilters,
+			disableSpellCheck: props.disableSpellCheck
+		},
+		false,
+    false);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 15:14:27</sys_created_on>
+        <sys_id>83aa3cb9dd71121060b1605185019030</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>handle_tab_filter_click</sys_name>
+        <sys_package display_value="TastyTally" source="x_1534543_tastyt_1">ef2b837983e11210b754e480ceaad3f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TastyTally">ef2b837983e11210b754e480ceaad3f2</sys_scope>
+        <sys_update_name>sys_ux_client_script_83aa3cb9dd71121060b1605185019030</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 15:14:27</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

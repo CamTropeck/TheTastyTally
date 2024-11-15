@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>false</can_share>
+        <can_write>false</can_write>
+        <dashboard display_value="TastyTallyAboutUs">5206c35295711210e910b46b9ec589da</dashboard>
+        <group/>
+        <owner>false</owner>
+        <role display_value="x_1534543_tastyt_1.admin" name="x_1534543_tastyt_1.admin">332b837983e11210b754e480ceaad3f9</role>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-13 14:40:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a306475283711210b754e480ceaad352</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5206c35295711210e910b46b9ec589da</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TastyTally" source="x_1534543_tastyt_1">ef2b837983e11210b754e480ceaad3f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TastyTally">ef2b837983e11210b754e480ceaad3f2</sys_scope>
+        <sys_update_name>par_dashboard_permission_a306475283711210b754e480ceaad352</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-13 14:40:22</sys_updated_on>
+        <user/>
+    </par_dashboard_permission>
+</record_update>

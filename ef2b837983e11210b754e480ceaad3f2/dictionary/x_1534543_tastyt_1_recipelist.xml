@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e1bb43b983e11210b754e480ceaad300" label="RecipeList" max_length="40" name="x_1534543_tastyt_1_recipelist" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Item Name" max_length="40" name="item_name" type="string"/>
+        <element label="Protein (g)" max_length="40" name="protein_g" type="integer"/>
+        <element label="Fats (g)" max_length="40" name="fats_g" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Cooking Instructions" max_length="124" name="cooking_instructions" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Ingredient List" max_length="83" name="ingredient_list" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Kosher" max_length="40" name="kosher" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Lactose Intolerant" max_length="40" name="lactose_intolerant" type="string"/>
+        <element label="Sodium (mg)" max_length="40" name="sodium_mg" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Vegan" max_length="40" name="vegan" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Halal" max_length="40" name="halal" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Gluten Free" max_length="40" name="gluten_free" type="string"/>
+        <element label="ID Number" max_length="40" name="id_number" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Vegetarian" max_length="40" name="vegetarian" type="string"/>
+        <element label="Calories" max_length="40" name="calories" type="integer"/>
+        <element label="Cholesterol (mg)" max_length="40" name="cholesterol_mg" type="integer"/>
+        <element label="Carbohydrates (g)" max_length="40" name="carbohydrates_g" type="integer"/>
+        <element label="Servings" max_length="40" name="servings" type="integer"/>
+    </element>
+</database>

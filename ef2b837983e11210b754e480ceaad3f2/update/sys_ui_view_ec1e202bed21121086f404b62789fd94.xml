@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>workspace-tastytallyhome-0</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-04 14:33:05</sys_created_on>
+        <sys_id>ec1e202bed21121086f404b62789fd94</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Workspace TastyTallyHome 0</sys_name>
+        <sys_package display_value="TastyTally" source="x_1534543_tastyt_1">ef2b837983e11210b754e480ceaad3f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TastyTally">ef2b837983e11210b754e480ceaad3f2</sys_scope>
+        <sys_update_name>sys_ui_view_ec1e202bed21121086f404b62789fd94</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-04 14:33:05</sys_updated_on>
+        <title>Workspace TastyTallyHome 0</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
